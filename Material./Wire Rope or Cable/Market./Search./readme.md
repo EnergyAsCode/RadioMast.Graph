@@ -1,4 +1,4 @@
 # Keyword:
-spool of wire rope
-wire rope spool
-wire rope
+- spool of wire rope
+- wire rope spool
+- wire rope
